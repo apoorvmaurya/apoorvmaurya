@@ -1,48 +1,33 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm APOORV 👋
 
-I'm a [Your Profession/Title], passionate about [Your Interests or Field]. Welcome to my GitHub profile!
-
-## About Me
-
-- 🔭 I’m currently working on [Current Project or Job]
-- 🌱 I’m currently learning [Technologies or Skills you are learning]
-- 👯 I’m looking to collaborate on [Open-source projects or interesting ideas]
-- 💬 Ask me about [Your areas of expertise or interest]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Preferred Pronouns]
+I'm a Hustler passionate about leveraging technology to solve real-world problems and create innovative solutions. <br>
+##### Welcome to my GitHub profile!
 
 ## Skills
 
-- Programming Languages: [Languages you are proficient in]
-- Frameworks and Libraries: [Frameworks and libraries you are familiar with]
-- Databases: [Databases you have experience with]
-- Tools and Technologies: [Any other tools or technologies you are skilled in]
+- Programming Languages: Python, PHP, 
+- Frameworks and Libraries: GIT
+- Databases: MySQL
+- Tools and Technologies: Data Visualization, GIT and GITHUB
 
 ## Projects
 
 Here are a few noteworthy projects I've worked on:
 
-- [Project 1 Name](Link to Project 1 Repository): Short description or key features.
-- [Project 2 Name](Link to Project 2 Repository): Short description or key features.
-- [Project 3 Name](Link to Project 3 Repository): Short description or key features.
+- [Virtual WorkStation](https://github.com/apoorvmaurya/WorkStation-Virtual-Assistant-): It includes functionalities for voice commands and various actions like searching on Wikipedia, opening webpages, telling jokes, and more.
+- [iCloud](https://github.com/apoorvmaurya/iCloud):  It contains the user and Admin section. From here, the admin can view all the records of the enrolled students and registered teachers.
+- [Simple WebPage](https://github.com/apoorvmaurya/Python-WebPage): It provides a simple interface to navigate web pages and supports common functionalities such as loading URLs and navigating back.
 
-Feel free to explore my repositories to find more projects and contributions!
+Feel free to explore my [repositories](https://github.com/apoorvmaurya?tab=repositories) to find more projects and contributions!
 
-## Blog
+## [Connect with Me](https://linktr.ee/ap00rv)
 
-I occasionally write articles on topics related to [Your Interests or Field]. Check out my blog at [Link to your Blog] to read some of my latest writings.
+- LinkedIn: https://www.linkedin.com/in/apoorv-maurya2506/
+- Twitter: https://twitter.com/Apoorv55248522
+- Email: apoorvmauryaapoorv@gmail.com
 
-## Connect with Me
+*I'm always open to interesting discussions and collaboration opportunities. Feel free to reach out to me!*
 
-- GitHub: [Your GitHub Profile URL]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
-- Email: [Your Email Address]
 
-I'm always open to interesting discussions and collaboration opportunities. Feel free to reach out to me!
 
-## Fun Fact
-
-[Share an interesting or fun fact about yourself to add a personal touch.]
-
-Thanks for visiting my profile! Have a great day! 😄
+##### *Thanks for visiting my profile! Have a great day! 😄*
