@@ -5,7 +5,7 @@ I'm a Hustler passionate about leveraging technology to solve real-world problem
 
 ## Skills
 
-- Programming Languages: Python, PHP, html 
+- Programming Languages: Python, PHP
 - Frameworks and Libraries: GIT
 - Databases: MySQL
 - Tools and Technologies: Data Visualization, GIT and GITHUB
