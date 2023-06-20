@@ -15,7 +15,7 @@ I'm a Hustler passionate about leveraging technology to solve real-world problem
 
 Here are a few noteworthy projects I've worked on:
 
-- ![GIF](https://iili.io/HP9v1Fj.gif) [healthify](https://github.com/apoorvmaurya/healthify): Healthify ([go live](https://apoorvmaurya.github.io/healthify/)) is a risk assessment system for medical institutions to generate risk assessments for their patients. The system helps medical institutions save valuable time by providing an efficient and easy-to-use platform for generating risk assessments for various diseases.
+- [healthify](https://github.com/apoorvmaurya/healthify): Healthify ([go live](https://apoorvmaurya.github.io/healthify/)) is a risk assessment system for medical institutions to generate risk assessments for their patients. The system helps medical institutions save valuable time by providing an efficient and easy-to-use platform for generating risk assessments for various diseases.
 - [Virtual WorkStation](https://github.com/apoorvmaurya/WorkStation-Virtual-Assistant-): It includes functionalities for voice commands and various actions like searching on Wikipedia, opening webpages, telling jokes, and more.
 - [iCloud](https://github.com/apoorvmaurya/iCloud):  It contains the user and Admin section. From here, the admin can view all the records of the enrolled students and registered teachers.
 - [Simple WebPage](https://github.com/apoorvmaurya/Python-WebPage): It provides a simple interface to navigate web pages and supports common functionalities such as loading URLs and navigating back.
