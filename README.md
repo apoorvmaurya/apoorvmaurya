@@ -1,8 +1,7 @@
 ![It's ME](https://iili.io/HP917HJ.png)
-# Hello, I'm APOORV 👋
-
-I'm a Hustler passionate about leveraging technology to solve real-world problems and create innovative solutions. <br>
-##### Welcome to my GitHub profile!
+<h1 align="center">Hii👋 Apoorv here</h1>
+<h3 align="center">I'm a Hustler passionate about leveraging technology to solve real-world problems and create innovative solutions.</h3>
+<h6 align="center"> Welcome to my GitHub profile!</h6>
 
 ## Skills
 
@@ -23,14 +22,22 @@ Here are a few noteworthy projects I've worked on:
 Feel free to explore my [repositories](https://github.com/apoorvmaurya?tab=repositories) to find more projects and contributions!
 
 ## [Connect with Me](https://linktr.ee/ap00rv)
-
-- LinkedIn: https://www.linkedin.com/in/apoorv-maurya2506/
-- Twitter: https://twitter.com/Apoorv55248522
-- Email: apoorvmauryaapoorv@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Apoorv55248522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Apoorv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/apoorv-maurya2506/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apoorv-maurya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/apoorv_06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apoorv_06" height="30" width="40" /></a>
+</p>
 
 *I'm always open to interesting discussions and collaboration opportunities. Feel free to reach out to me!*
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorvmaurya&show_icons=true&locale=en&layout=compact" alt="apoorvmaurya" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorvmaurya&show_icons=true&locale=en" alt="apoorvmaurya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvmaurya&" alt="apoorvmaurya" /></p>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=apoorvmaurya)
+
 ##### *Thanks for visiting my profile! Have a great day! 😄*
