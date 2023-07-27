@@ -21,15 +21,20 @@ Here are a few noteworthy projects I've worked on:
 
 Feel free to explore my [repositories](https://github.com/apoorvmaurya?tab=repositories) to find more projects and contributions!
 
-## [Connect with Me](https://linktr.ee/ap00rv)
-<h3 align="left">Connect with me:</h3>
+## Connect with Me
 <p align="left">
-<a href="https://twitter.com/Apoorv55248522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Apoorv" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/apoorv-maurya2506/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apoorv-maurya" height="30" width="40" /></a>
-<a href="https://www.instagram.com/apoorv_06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apoorv_06" height="30" width="40" /></a>
+  <a href="https://twitter.com/Apoorv55248522" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" style="margin-right: 25px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/apoorv-maurya2506/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 25px;" />
+  </a>
+  <a href="https://www.instagram.com/apoorv_06/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 25px;" />
+  </a>
 </p>
 
-*I'm always open to interesting discussions and collaboration opportunities. Feel free to reach out to me!*
+*I'm always open to interesting discussions and collaboration opportunities. Feel free to reach out to me [here](https://linktr.ee/ap00rv)!*
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorvmaurya&&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="apoorvmaurya" /></p>
 
