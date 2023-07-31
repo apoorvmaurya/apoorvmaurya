@@ -6,7 +6,7 @@
 ## Skills
 
 - Programming Languages: Python, PHP, Javascript 
-- Frameworks and Libraries: GIT
+- Frameworks and Libraries: GIT, ExpressJS
 - Databases: MySQL, Node.js
 - Tools and Technologies: Data Visualization, GIT and GITHUB
 
