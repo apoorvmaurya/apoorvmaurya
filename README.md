@@ -36,11 +36,10 @@ Feel free to explore my [repositories](https://github.com/apoorvmaurya?tab=repos
 
 *I'm always open to interesting discussions and collaboration opportunities. Feel free to reach out to me [here](https://linktr.ee/ap00rv)!*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorvmaurya&&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="apoorvmaurya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorvmaurya&show_icons=true&&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="apoorvmaurya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorvmaurya&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="apoorvmaurya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorvmaurya&show_icons=true&locale=en&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="apoorvmaurya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvmaurya&theme=onedark&hide_border=true" alt="apoorvmaurya" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
