@@ -40,6 +40,9 @@ Feel free to explore my [repositories](https://github.com/apoorvmaurya?tab=repos
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorvmaurya&show_icons=true&locale=en&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="apoorvmaurya" /></p>
 
+<!--START_STREAK_SECTION-->
+<!--END_STREAK_SECTION-->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
