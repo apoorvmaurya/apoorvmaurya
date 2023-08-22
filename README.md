@@ -9,7 +9,7 @@
 
 - Programming Languages: Python, PHP, Javascript 
 - Frameworks and Libraries: GIT, ExpressJS
-- Databases: MySQL, Node.js
+- Environment and Databases: MySQL, Node.js
 - Tools and Technologies: Data Visualization, GIT and GITHUB
 
 ## Projects
