@@ -55,4 +55,4 @@ Feel free to explore my [repositories](https://github.com/apoorvmaurya?tab=repos
 
 ![Profile Views](https://komarev.com/ghpvc/?username=apoorvmaurya)
 
-##### *Thanks for visiting my profile! Have a great day! 😄*
+*Thanks for visiting my profile! Have a great day! 😄*
