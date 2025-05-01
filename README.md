@@ -9,10 +9,10 @@
    
 ## Skills
 
-- Programming Languages: Python, PHP, Javascript 
-- Frameworks and Libraries: GIT, ExpressJS
-- Environment and Databases: MySQL, Node.js
-- Tools and Technologies: Data Visualization, GIT and GITHUB
+<p><strong>Technical Skills:</strong> JavaScript, Typescript, Python, HTML5, CSS3, SQL.</p>
+<p><strong>Framework & Libraries:</strong> React.js, Next.js, Node.js, Express.js, Redux API.</p>
+<p><strong>Tools:</strong> Git, GitLab, Postman API Platform, Figma</p>
+<p><strong>Misc. Skills:</strong> Technical Documentation, Content Writing, Community Management, Developer Relations.</p>
 
 ## Projects
 
