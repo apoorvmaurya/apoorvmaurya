@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer creating innovative solutions for real-world problems</h3>
 
 <p align="center">
-  <a href="https://apoorv-dun.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://apoorv-gamma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linktr.ee/ap00rv" target="_blank"><img src="https://img.shields.io/badge/Contact_Me-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Contact"/></a>
   <img src="https://komarev.com/ghpvc/?username=apoorvmaurya&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
