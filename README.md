@@ -54,12 +54,12 @@
       <p>A virtual assistant with voice commands for Wikipedia searches, web browsing, jokes, and more.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Healthify</h3>
+      <h3 align="center">AssesMed</h3>
       <p align="center">
         <a href="https://github.com/apoorvmaurya/AssessMed" target="_blank">
           <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository"/>
         </a>
-        <a href="https://apoorvmaurya.github.io/healthify/" target="_blank">
+        <a href="https://assesmed.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" alt="Live Demo"/>
         </a>
       </p>
