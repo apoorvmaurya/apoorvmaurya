@@ -56,7 +56,7 @@
     <td width="50%">
       <h3 align="center">AssesMed</h3>
       <p align="center">
-        <a href="https://github.com/apoorvmaurya/AssessMed" target="_blank">
+        <a href="https://github.com/apoorvmaurya/AssesMed" target="_blank">
           <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository"/>
         </a>
         <a href="https://assesmed.vercel.app/" target="_blank">
