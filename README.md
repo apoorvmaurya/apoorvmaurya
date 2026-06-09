@@ -1,133 +1,246 @@
-![It's ME](https://iili.io/HP917HJ.png)
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9D4EDD&height=200&section=header&text=Apoorv%20Maurya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI-Integrated%20Products%20%26%20Developer%20Tooling&descSize=16&descAlignY=58&descColor=c9d1d9&animation=twinkling" /></div>
 
-<h1 align="center">Hi there 👋 I'm Apoorv</h1>
-<h3 align="center">A passionate developer creating innovative solutions for real-world problems</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://apoorv-gamma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linktr.ee/ap00rv" target="_blank"><img src="https://img.shields.io/badge/Contact_Me-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Contact"/></a>
-  <img src="https://komarev.com/ghpvc/?username=apoorvmaurya&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://apoorv-gamma.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/apoorv-maurya2506/)
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-0D1117?style=for-the-badge&logo=x&logoColor=00D9FF)](https://twitter.com/apoorvmaurya_)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:apoorvmauryaapoorv@gmail.com)
 
-## 💻 Tech Stack
+![Profile Views](https://komarev.com/ghpvc/?username=apoorvmaurya&style=for-the-badge&color=00D9FF&labelColor=0D1117&label=PROFILE+VIEWS)
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  
-  <!-- Misc Skills -->
-  <img src="https://img.shields.io/badge/Technical_Documentation-212121?style=for-the-badge&logo=readme&logoColor=white" alt="Documentation"/>
-  <img src="https://img.shields.io/badge/Content_Writing-00A98F?style=for-the-badge&logo=markdown&logoColor=white" alt="Content Writing"/>
-  <img src="https://img.shields.io/badge/Community_Management-4285F4?style=for-the-badge&logo=google-chat&logoColor=white" alt="Community Management"/>
-  <img src="https://img.shields.io/badge/DevRel-FF4500?style=for-the-badge&logo=discourse&logoColor=white" alt="DevRel"/>
-</p>
+</div>
+
+---
+
+## `> whoami`
+
+```ts
+const apoorv = {
+  role:       "Full-Stack Engineer",
+  focus:      ["AI-Integrated Products", "Developer Tooling", "SaaS Platforms"],
+  education:  ["BTech CSE @ Galgotias University (2021–2025)",
+               "AI/ML Extended Program @ IIT Guwahati (2025–Present)"],
+  currently:  "Building scalable, AI-first web products",
+  community:  ["Postman Student Expert", "OpenSourceDays Co-Organizer"],
+  location:   "India 🇮🇳",
+};
+```
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+**AI / ML**
+
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-0D1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Groq](https://img.shields.io/badge/Groq_LLM-0D1117?style=for-the-badge&logo=groq&logoColor=F55036)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=github-actions&logoColor=2088FF)
+
+---
 
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Virtual WorkStation</h3>
-      <p align="center">
-        <a href="https://github.com/apoorvmaurya/WorkStation-Virtual-Assistant-" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-        </a>
-      </p>
-      <p>A virtual assistant with voice commands for Wikipedia searches, web browsing, jokes, and more.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">AssesMed</h3>
-      <p align="center">
-        <a href="https://github.com/apoorvmaurya/AssesMed" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-        </a>
-        <a href="https://assesmed.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-        </a>
-      </p>
-      <p>Risk assessment system for medical institutions to efficiently generate disease risk assessments for patients.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Simple WebPage</h3>
-      <p align="center">
-        <a href="https://github.com/apoorvmaurya/Python-WebPage" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-        </a>
-      </p>
-      <p>Simple interface to navigate web pages with URL loading and back navigation support.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">iCloud</h3>
-      <p align="center">
-        <a href="https://github.com/apoorvmaurya/iCloud" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-        </a>
-      </p>
-      <p>Platform with user and admin sections for viewing records of enrolled students and registered teachers.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [RetentIQ](https://retentiq-chi.vercel.app/)
+**Enterprise SaaS Churn-Intelligence Platform**
+
+An AI-powered B2B retention engine combining ML churn prediction with LLM-generated, per-customer playbooks — so revenue teams know who's at risk and exactly what to do about it.
+
+**Highlights:**
+- `RandomForestClassifier` trained on customer event distributions
+- Async ingestion pipeline for Stripe, Intercom & CSV sources
+- Groq Llama 3.3 for automated retention recommendations
+- Cron-driven ROI engine with Slack & SMTP alerting
+- 4-stage CI/CD: lint → Vitest → Lighthouse → Docker
+
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![Supabase](https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://retentiq-chi.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### [Planora](http://planora-plum-beta.vercel.app/)
+**AI-Powered Collaborative Trip Planner**
+
+A real-time collaborative travel platform where AI generates context-aware itineraries and a custom Momentum Engine keeps teams aligned across long planning cycles.
+
+**Highlights:**
+- Llama 3.3 via Vercel AI SDK for preference-aware itineraries
+- Conflict-free collaborative state sync via Supabase Realtime
+- Momentum Engine: automated email nudges for group decisions
+- Zero data-race concurrent editing across shared itineraries
+
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6)
+![Supabase](https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Zustand](https://img.shields.io/badge/Zustand-161B22?style=flat-square&logo=react&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](http://planora-plum-beta.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [AssesMed](https://assesmed.vercel.app/)
+**Clinical ML Decision Interface**
+
+A full-stack medical risk assessment tool that wraps FastAPI-served ML prediction models in a guided, validated UI — making complex diagnostic tools accessible to non-technical clinical staff.
+
+**Highlights:**
+- FastAPI ML inference layer with API-response caching
+- Multi-step validated form with contextual help text
+- Designed for zero-training clinical usability
+- Significant latency reduction on high-frequency queries
+
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688)
+![Supabase](https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3ECF8E)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://assesmed.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### [Virtual WorkStation](https://github.com/apoorvmaurya/WorkStation-Virtual-Assistant-)
+**Voice-Activated Desktop Assistant**
+
+A Python-powered virtual assistant with natural-language voice commands for Wikipedia searches, web navigation, jokes, and automation workflows.
+
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/apoorvmaurya/WorkStation-Virtual-Assistant-)
+
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/apoorvmaurya?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View_All_Repositories-121013?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
-  </a>
-</p>
+<div align="center">
+
+[![View All Repos](https://img.shields.io/badge/View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/apoorvmaurya?tab=repositories)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=apoorvmaurya&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvmaurya&theme=onedark&hide_border=true" alt="GitHub Streak Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=apoorvmaurya&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00D9FF&icon_color=9D4EDD&text_color=c9d1d9&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvmaurya&theme=github-dark-blue&hide_border=true&ring=00D9FF&fire=9D4EDD&currStreakLabel=00D9FF&background=0D1117" />
 </div>
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorvmaurya&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
-
-## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apoorvmaurya&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorvmaurya&theme=github_dark&hide_border=true&layout=compact&title_color=00D9FF&text_color=c9d1d9&bg_color=0D1117&langs_count=8" />
 </div>
-
-## 📫Connect With Me
-<p align="left">
-  <a href="https://twitter.com/Apoorv55248522" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="" height="30" width="40" style="margin-right: 25;" />
-  </a>
-  <a href="https://www.linkedin.com/in/apoorv-maurya2506/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 25;" />
-  </a>
-  <a href="https://www.instagram.com/apoorv_06/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 25;" />
-  </a>
-</p>
 
 <div align="center">
-  
-  ### ✍️ Random Dev Quote
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-  
-  <p><em>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</em></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apoorvmaurya&theme=github-compact&bg_color=0D1117&color=00D9FF&line=9D4EDD&point=ffffff&hide_border=true" />
 </div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=apoorvmaurya&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+## 🌐 Community & Leadership
+
+<table>
+<tr>
+<td>
+
+**🟠 Postman Student Expert**
+Mentored students across multiple college chapters on API design and testing. Authored tutorial documentation adopted as a standard onboarding resource across programs.
+
+</td>
+<td>
+
+**⚡ OpenSourceDays — Member & Co-Organizer**
+Managed end-to-end logistics for 200+ attendee events. Authored post-event impact reports and success metrics that shaped planning for future editions.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**🎙 Technical Event Co-Organizer — Rungta College of Engineering**
+Curated a speaker lineup including GitHub's Senior Manager & Developer Advocate and Postman's Senior Developer Advocate, bridging students directly with industry leadership.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Work Experience
+
+**Full-Stack Developer Intern** · [DevX Days](https://devxdays.com) `Jan 2025 – Sept 2025`
+> Next.js SSR · SWR Caching · Code Splitting · Cross-browser Compatibility
+
+- Reduced average API calls per session by **~60%** via SWR-based caching layer
+- Cut initial page load time by **40%** with route-level code splitting & lazy loading
+- Boosted organic search discoverability through fully server-side rendered routes
+
+**Frontend Developer Intern** · Pixelwand `July 2024 – Dec 2024`
+> React · styled-components · Figma → Code · Component Architecture
+
+- Reduced feature development time by **~25%** via a documented reusable component library
+- Converted complex Figma designs to pixel-accurate components validated across all breakpoints
+
+---
+
+<div align="center">
+
+  <div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:00D9FF&height=100&section=footer&reversal=true" />
+
+  </div>
+<sub>Built with precision · Open to opportunities · Let's ship something remarkable</sub>
