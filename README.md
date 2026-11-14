@@ -5,7 +5,6 @@
 ### Full-Stack AI Engineer · LLM-Integrated Products
 
 I build AI products end to end: ML models and retrieval pipelines on the back end, production Next.js interfaces on the front, deployed where anyone can try them.
-**Every project below has a live demo or a one-command local run.**
 
 <br />
 
@@ -33,7 +32,7 @@ Scores customer churn risk with **LightGBM**, explains every score with **TreeSH
 ### [Planora](https://github.com/apoorvmaurya/planora) - Group trip planning that actually ends in a plan
 Turns group indecision into a finished itinerary: AI-generated plans, real-time group voting, and shared expense tracking.
 
-- **Stack:** Next.js · Groq Llama via Vercel AI SDK · Supabase Realtime
+- **Stack:** Next.js · GPT-OSS with Llama as Prompt Guard · Supabase Realtime
 - **Try it:** [**Live demo**](https://planora-plum-beta.vercel.app/)
 
 ### [AssesMed](https://github.com/apoorvmaurya/AssesMed) - Clinical risk assessment for non-technical users
